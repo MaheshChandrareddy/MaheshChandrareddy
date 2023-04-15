@@ -12,7 +12,7 @@ connect with me
 linkedin : https://www.linkedin.com/in/mahesh-chandrareddy-72391b1b1/
 
 Languages and Tools:
-react, css3, html5, javascript, mysql git
+react, css3, html5, javascript, mysql, git, responsive design, redux
 
 <!---
 MaheshChandrareddy/MaheshChandrareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
