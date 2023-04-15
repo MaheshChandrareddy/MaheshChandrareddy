@@ -1,6 +1,6 @@
                                                       Hi👋, I’m MaheshChandrareddy
                                                 A passionate frontend developer from Bangalore India
-🌱 I’m currently working as JS [ REACT ] FrontEnd developer
+🌱 I’m currently working as FrontEnd developer ( reactjs )
 
 💬 Ask me about react,Javascript,HTML,CSS,coreJava
 
@@ -12,7 +12,7 @@ connect with me
 linkedin : https://www.linkedin.com/in/mahesh-chandrareddy-72391b1b1/
 
 Languages and Tools:
-react css3 html5 javascript mysql git
+react, css3, html5, javascript, mysql git
 
 <!---
 MaheshChandrareddy/MaheshChandrareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
