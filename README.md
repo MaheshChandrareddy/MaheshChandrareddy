@@ -14,6 +14,7 @@ linkedin : https://www.linkedin.com/in/mahesh-chandrareddy-72391b1b1/
 Languages and Tools:
 swift, swiftUI, xcode, UIKit, CoreData, Foundation, Instruments, XCtest, Combine
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshChandrareddy&show_icons=true&theme=radical)
 <!---
 MaheshChandrareddy/MaheshChandrareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
