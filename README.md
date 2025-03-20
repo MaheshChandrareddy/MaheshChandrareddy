@@ -2,7 +2,7 @@
                                                 A passionate iOS developer from Bangalore India
 🌱 I’m currently working as iOS Developer (swift)
 
-💬 Ask me about swift,swiftUI, knowledge on (reactjs,Javascript,HTML,CSS,CoreJava,sql)
+💬 Ask me about swift, UIKit, swiftUI
 
 📫 How to reach me maheshhsr@gmail.com
 
@@ -12,7 +12,8 @@ connect with me
 linkedin : https://www.linkedin.com/in/mahesh-chandrareddy-72391b1b1/
 
 Languages and Tools:
-swift, swiftUI, xcode, UIKit, CoreData, Foundation, Instruments, XCtest, Combine
+Swift • UIKit • Core Data • XCTest • Foundation • AutoLayout • SwiftUI & Combine • Swift Package Manager (SPM) • CocoaPods • App lifecycle & App architecture • Memory Management • Multithreading • RESTful API • Code Signing • Keychain • HTML • CSS • Javascript • React JS • java • sql 
+Xcode • Git/Github • GitLab • Jira • Postman • Swagger API • FIGMA • Instruments • VSCode
 
 ## 🔥 Most Used Languages  
 
