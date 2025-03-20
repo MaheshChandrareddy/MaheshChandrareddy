@@ -1,5 +1,5 @@
                                                       Hi👋, I’m MaheshChandrareddy
-                                                A passionate frontend developer from Bangalore India
+                                                A passionate iOS developer from Bangalore India
 🌱 I’m currently working as iOS Developer (swift)
 
 💬 Ask me about swift,swiftUI, knowledge on (reactjs,Javascript,HTML,CSS,CoreJava,sql)
